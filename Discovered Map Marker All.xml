@@ -1,0 +1,2705 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>RMapMarker.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>Tamriel</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Skyrim</Source>
+      <Dest>スカイリム</Dest>
+    </String>
+    <String List="0">
+      <EDID>AlftandMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Alftand</Source>
+      <Dest>アルフタンド</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00015D4D]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Swindler&apos;s Den</Source>
+      <Dest>詐欺師の隠れ家</Dest>
+    </String>
+    <String List="0">
+      <EDID>AngarvundeMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Angarvunde</Source>
+      <Dest>アンガルブンデ</Dest>
+    </String>
+    <String List="0">
+      <EDID>MapMarkerAnsilvundREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ansilvund</Source>
+      <Dest>アンシルヴァンド</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001620C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Autumnshade Clearing</Source>
+      <Dest>オータムシェイド開拓地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MS04AvanchnzelMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Avanchnzel</Source>
+      <Dest>アバンチンゼル</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001620E]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bard&apos;s Leap Summit</Source>
+      <Dest>吟遊詩人の跳躍</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001620F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bleakcoast Cave</Source>
+      <Dest>ブリークコースト洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016211]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bleakwind Basin</Source>
+      <Dest>ブリークウィンド水源</Dest>
+    </String>
+    <String List="0">
+      <EDID>BlindCliffMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Blind Cliff Cave</Source>
+      <Dest>ブラインドクリフ洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016214]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Blizzard Rest</Source>
+      <Dest>ブリザード・レスト</Dest>
+    </String>
+    <String List="0">
+      <EDID>BloatedMansGrottoMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bloated Man&apos;s Grotto</Source>
+      <Dest>ブローテッド・マンの洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>TwilightSepulcherMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Twilight Sepulcher</Source>
+      <Dest>黄昏の墓所</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016217]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Southfringe Sanctum</Source>
+      <Dest>サウスフリンジ聖域</Dest>
+    </String>
+    <String List="0">
+      <EDID>BrokenFangCaveMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Broken Fang Cave</Source>
+      <Dest>崩れ落ちたファング洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016219]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Broken Helm Hollow</Source>
+      <Dest>ブロークン・ヘルム・ホロウ</Dest>
+    </String>
+    <String List="0">
+      <EDID>BrokenTowerRedoubtMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Broken Tower Redoubt</Source>
+      <Dest>ブロークン・タワー要塞</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001621B]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Brood Cavern</Source>
+      <Dest>幼魔の洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001621C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bruca&apos;s Leap Redoubt</Source>
+      <Dest>ブルカズリープ要塞</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001621D]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bthardamz</Source>
+      <Dest>ブサーダムズ</Dest>
+    </String>
+    <String List="0">
+      <EDID>UstengravMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ustengrav</Source>
+      <Dest>ウステングラブ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016220]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Chillwind Depths</Source>
+      <Dest>冷風ヶ淵</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016222]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Clearpine Pond</Source>
+      <Dest>クリアパイン池</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016223]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Clearspring Tarn</Source>
+      <Dest>クリアスプリング小湖</Dest>
+    </String>
+    <String List="0">
+      <EDID>KorvanjundMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Korvanjund</Source>
+      <Dest>コルバンヤンド</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016225]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Cradlecrush Rock</Source>
+      <Dest>クレイドルクラッシュ・ロック</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016226]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Cragslane Cavern</Source>
+      <Dest>クラッグスレイン洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016227]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Cragwallow Slope</Source>
+      <Dest>クラグワロウ・スロープ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016228]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Cronvangr Cave</Source>
+      <Dest>クロンヴァングル洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016229]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Crystaldrift Cave</Source>
+      <Dest>クリスタルドリフト洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>DarklightTowerMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Darklight Tower</Source>
+      <Dest>ダークライト・タワー</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001622C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Darkwater Pass</Source>
+      <Dest>ダークウォーター峠</Dest>
+    </String>
+    <String List="0">
+      <EDID>DeadCroneRockMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dead Crone Rock</Source>
+      <Dest>デッド・クローン・ロック</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001622E]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dead Men&apos;s Respite</Source>
+      <Dest>死者の安息所</Dest>
+    </String>
+    <String List="0">
+      <EDID>DeepwoodRedoubtMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Deepwood Redoubt</Source>
+      <Dest>ディープウッド要塞</Dest>
+    </String>
+    <String List="0">
+      <EDID>DragontoothCraterMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dragontooth Crater</Source>
+      <Dest>ドラゴントゥース火口</Dest>
+    </String>
+    <String List="0">
+      <EDID>AncientsAscentMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ancient&apos;s Ascent</Source>
+      <Dest>太古の上り坂</Dest>
+    </String>
+    <String List="0">
+      <EDID>BleakFallsBarrowMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bleak Falls Barrow</Source>
+      <Dest>ブリーク・フォール墓地</Dest>
+    </String>
+    <String List="0">
+      <EDID>AutumnwatchTowerMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Autumnwatch Tower</Source>
+      <Dest>オータムウォッチ・タワー</Dest>
+    </String>
+    <String List="0">
+      <EDID>NorthwindSummitMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Northwind Summit</Source>
+      <Dest>ノースウィンド山頂</Dest>
+    </String>
+    <String List="0">
+      <EDID>LostTongueOverlookMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Lost Tongue Overlook</Source>
+      <Dest>ロストタン高台</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShearpointMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Shearpoint</Source>
+      <Dest>シアーポイント</Dest>
+    </String>
+    <String List="0">
+      <EDID>EldersbloodPeakMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Eldersblood Peak</Source>
+      <Dest>エルダーズ・ブラッド・ピーク</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkybornAltarMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Skyborn Altar</Source>
+      <Dest>スカイボーンの祭壇</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001623A]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Steamcrag Camp</Source>
+      <Dest>スチームクラグの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>DriftshadeSanctuaryMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Driftshade Refuge</Source>
+      <Dest>ドリフトシェイドの隠れ家</Dest>
+    </String>
+    <String List="0">
+      <EDID>DruadachRedoubtMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Druadach Redoubt</Source>
+      <Dest>ドルアダッチ要塞</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001623D]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Red Eagle Redoubt</Source>
+      <Dest>赤鷲要塞</Dest>
+    </String>
+    <String List="0">
+      <EDID>DushnikhYalMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dushnikh Yal</Source>
+      <Dest>ダシュニク・ヤル</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001623F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Duskglow Crevice</Source>
+      <Dest>ダスクグロウ・クレバス</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016241]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Evergreen Grove</Source>
+      <Dest>エバーグリーンの森</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016242]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Faldar&apos;s Tooth</Source>
+      <Dest>ファルダーズトゥース</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016243]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fallowstone Cave</Source>
+      <Dest>ファロウストーン洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>FellglowKeepMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fellglow Keep</Source>
+      <Dest>フェルグロウ砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016246]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Folgunthur</Source>
+      <Dest>フォルガンスール</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016247]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Forelhost</Source>
+      <Dest>フォーレルホスト</Dest>
+    </String>
+    <String List="0">
+      <EDID>ForsakenCaveMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Forsaken Cave</Source>
+      <Dest>見捨てられた洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016249]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Amol</Source>
+      <Dest>アモル砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortGreymoorMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Greymoor</Source>
+      <Dest>グレイムーア砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001624B]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Dunstad</Source>
+      <Dest>ダンスタッド砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001624C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Fellhammer</Source>
+      <Dest>フェルハメール砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001624D]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Greenwall</Source>
+      <Dest>グリーンウォール砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001624F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Kastav</Source>
+      <Dest>カスタブ砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016250]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Neugrad</Source>
+      <Dest>ニューグラド砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortSnowhawkMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Snowhawk</Source>
+      <Dest>スノーホーク砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016252]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Sungard</Source>
+      <Dest>サンガード砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016253]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Frostflow Lighthouse</Source>
+      <Dest>フロストフロウ灯台</Dest>
+    </String>
+    <String List="0">
+      <EDID>GallowsRockMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Gallows Rock</Source>
+      <Dest>ギャロウズ・ロック</Dest>
+    </String>
+    <String List="0">
+      <EDID>GeirmundsHallMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Geirmund&apos;s Hall</Source>
+      <Dest>ゲイルムンドの間</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016256]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Movarth&apos;s Lair</Source>
+      <Dest>モヴァルスの隠れ家</Dest>
+    </String>
+    <String List="0">
+      <EDID>GlenmorilCovenMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Glenmoril Coven</Source>
+      <Dest>グレンモリル魔術結社</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016258]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Gloomreach</Source>
+      <Dest>グルームリーチ</Dest>
+    </String>
+    <String List="0">
+      <EDID>GraywinterWatchMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Graywinter Watch</Source>
+      <Dest>グレイウィンター監視所</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001625A]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Greywater Grotto</Source>
+      <Dest>グレイウォーター洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>CrackedTuskMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Cracked Tusk Keep</Source>
+      <Dest>クラックスタスクキープ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001625C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Guldun Rock</Source>
+      <Dest>ゴルドゥン・ロック</Dest>
+    </String>
+    <String List="0">
+      <EDID>HaemarsShameMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Haemar&apos;s Shame</Source>
+      <Dest>ハエマールの不名誉</Dest>
+    </String>
+    <String List="0">
+      <EDID>HagRockRedoubtMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hag Rock Redoubt</Source>
+      <Dest>ハグロック要塞</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016260]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Halldir&apos;s Cairn</Source>
+      <Dest>ハルディールの石塚</Dest>
+    </String>
+    <String List="0">
+      <EDID>HaltedStreamCampMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Halted Stream Camp</Source>
+      <Dest>ホルテッド・ストリームの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016262]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Harmugstahl</Source>
+      <Dest>ハームグシュタール</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016263]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>High Gate Ruins</Source>
+      <Dest>ハイゲートの遺跡</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016264]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Volunruud</Source>
+      <Dest>ヴォルンルード</Dest>
+    </String>
+    <String List="0">
+      <EDID>BrittleShinPassNorthMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>North Brittleshin Pass</Source>
+      <Dest>北ブリトルシン峠</Dest>
+    </String>
+    <String List="0">
+      <EDID>HobsFallCaveMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hob&apos;s Fall Cave</Source>
+      <Dest>ホブのフォール洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016267]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Honeystrand Cave</Source>
+      <Dest>ハニーストランド洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016269]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Greenspring Hollow</Source>
+      <Dest>グリーンスプリング・ホロウ</Dest>
+    </String>
+    <String List="0">
+      <EDID>IlinaltasDeepMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ilinalta&apos;s Deep</Source>
+      <Dest>イリナルタの深淵</Dest>
+    </String>
+    <String List="0">
+      <EDID>IrkngthandMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Irkngthand</Source>
+      <Dest>イルクンサンド</Dest>
+    </String>
+    <String List="0">
+      <EDID>KarthspireMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Karthspire</Source>
+      <Dest>カーススパイアー</Dest>
+    </String>
+    <String List="0">
+      <EDID>KilkreathRuinsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Statue to Meridia</Source>
+      <Dest>メリディアの像</Dest>
+    </String>
+    <String List="0">
+      <EDID>LabryinthianMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Labyrinthian</Source>
+      <Dest>ラビリンシアン</Dest>
+    </String>
+    <String List="0">
+      <EDID>LargashburMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Largashbur</Source>
+      <Dest>ラーガシュブール</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016270]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Liar&apos;s Retreat</Source>
+      <Dest>ライアーの隠居所</Dest>
+    </String>
+    <String List="0">
+      <EDID>YngolBarrowMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Yngol Barrow</Source>
+      <Dest>ユンゴル墓地</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016273]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Lost Knife Hideout</Source>
+      <Dest>ロストナイフ洞窟の隠れ家</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016274]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Lost Valley Redoubt</Source>
+      <Dest>ロストバレー要塞</Dest>
+    </String>
+    <String List="0">
+      <EDID>BilegulchMineMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bilegulch Mine</Source>
+      <Dest>バイルガルチ鉱山</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampReachSonsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Reach Stormcloak Camp</Source>
+      <Dest>リーチ・ストームクロークの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampReachImperialMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Reach Imperial Camp</Source>
+      <Dest>リーチの帝国軍野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampHjaalmarchImperialMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hjaalmarch Imperial Camp</Source>
+      <Dest>ハイヤルマーチの帝国軍野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampHjaalmarchSonsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hjaalmarch Stormcloak Camp</Source>
+      <Dest>ハイヤルマーチ・ストームクロークの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampPaleImperialMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Pale Imperial Camp</Source>
+      <Dest>ペイルの帝国軍野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampPaleSonsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Pale Stormcloak Camp</Source>
+      <Dest>ペイル・ストームクロークの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampWinterholdImperialMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Winterhold Imperial Camp</Source>
+      <Dest>ウィンターホールドの帝国軍野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampWinterholdSonsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Winterhold Stormcloak Camp</Source>
+      <Dest>ウィンターホールド・ストームクロークの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampRiftSonsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Rift Stormcloak Camp</Source>
+      <Dest>リフト・ストームクロークの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampRiftImperialMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Rift Imperial Camp</Source>
+      <Dest>リフトの帝国軍野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampFalkreathSonsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Falkreath Stormcloak Camp</Source>
+      <Dest>ファルクリース・ストームクロークの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampFalkreathImperialMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Falkreath Imperial Camp</Source>
+      <Dest>ファルクリースの帝国軍野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampWhiterunImperialMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Whiterun Imperial Camp</Source>
+      <Dest>ホワイトランの帝国軍野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016286]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Mistwatch</Source>
+      <Dest>ミストウォッチ</Dest>
+    </String>
+    <String List="0">
+      <EDID>MorKhazgurMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Mor Khazgur</Source>
+      <Dest>モル・カズグール</Dest>
+    </String>
+    <String List="0">
+      <EDID>MapMarkerMorvunskarREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Morvunskar</Source>
+      <Dest>モルブンスカー</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016289]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Moss Mother Cavern</Source>
+      <Dest>モス・マザー洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>MountAnthorMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Mount Anthor</Source>
+      <Dest>アンソール山</Dest>
+    </String>
+    <String List="0">
+      <EDID>MzinchaleftMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Mzinchaleft</Source>
+      <Dest>ムジンチャレフト</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001628C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Mzulft</Source>
+      <Dest>ムズルフト</Dest>
+    </String>
+    <String List="0">
+      <EDID>NarzulburMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Narzulbur</Source>
+      <Dest>ナルズルブール</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001628F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Nilheim</Source>
+      <Dest>ニルヘイム</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016290]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Northwatch Keep</Source>
+      <Dest>ノースウォッチ砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016291]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Orotheim</Source>
+      <Dest>オロセイム</Dest>
+    </String>
+    <String List="0">
+      <EDID>OrphanRockMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Orphan Rock</Source>
+      <Dest>オーファンロック</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016293]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Pinemoon Cave</Source>
+      <Dest>パインムーン洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016294]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Pinepeak Cavern</Source>
+      <Dest>パインクリーク洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>PinewatchMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Pinewatch</Source>
+      <Dest>パインウォッチ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001629A]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ragnvald</Source>
+      <Dest>ラグンヴァルド</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001629B]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Rannveig&apos;s Fast</Source>
+      <Dest>ランヴェイグのファースト</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001629C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ravenscar Hollow</Source>
+      <Dest>レイヴンスカー・ホロウ</Dest>
+    </String>
+    <String List="0">
+      <EDID>ReachcliffCaveMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Reachcliff Cave</Source>
+      <Dest>リーチクリフ洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001629E]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Reachwater Rock</Source>
+      <Dest>リーチウォーターロック</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001629F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Redoran&apos;s Retreat</Source>
+      <Dest>レドラン家の隠居所</Dest>
+    </String>
+    <String List="0">
+      <EDID>RedRoadPassMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Red Road Pass</Source>
+      <Dest>赤い道峠</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162A1]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Rimerock Burrow</Source>
+      <Dest>ライムロック窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>RiverwoodMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Riverwood</Source>
+      <Dest>リバーウッド</Dest>
+    </String>
+    <String List="0">
+      <EDID>SaarthalMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Saarthal</Source>
+      <Dest>サールザル</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162A6]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Secunda&apos;s Kiss</Source>
+      <Dest>セクンダの口づけ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162A7]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Robber&apos;s Gorge</Source>
+      <Dest>追いはぎ峡谷</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162A8]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Shadowgreen Cavern</Source>
+      <Dest>シャドウグリーン洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162A9]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Shimmermist Cave</Source>
+      <Dest>シマーミスト洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>MS07ShipwreckMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Wreck of the Icerunner</Source>
+      <Dest>難破したアイスランナー号</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162AB]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Wreck Of The Brinehammer</Source>
+      <Dest>難破したブラインハンマー号</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162AC]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hela&apos;s Folly</Source>
+      <Dest>ヘラ・フォリー号</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162AD]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Pilgrim&apos;s Trench</Source>
+      <Dest>ピルグリム・トレンチ号</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162AE]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Wreck of The Pride of Tel Vos</Source>
+      <Dest>難破したプライド・オブ・テル・ヴォス号</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162AF]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Wreck of the Winter War</Source>
+      <Dest>難破したウィンターウォー号</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162B0]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Orphan&apos;s Tear</Source>
+      <Dest>オルファン・ティアー号</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162B1]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Shrouded Grove</Source>
+      <Dest>隠匿の森</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162B3]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Sightless Pit</Source>
+      <Dest>サイトレス・ピット</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162B4]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Silent Moons Camp</Source>
+      <Dest>静かなる月の野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162B5]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Silverdrift Lair</Source>
+      <Dest>シルバードリフトの隠れ家</Dest>
+    </String>
+    <String List="0">
+      <EDID>BonestrewnCrestMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bonestrewn Crest</Source>
+      <Dest>ボーンストレウン山脈</Dest>
+    </String>
+    <String List="0">
+      <EDID>EldergleamSanctuaryMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Eldergleam Sanctuary</Source>
+      <Dest>エルダーグリーム聖域</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162B8]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Sleeping Tree Camp</Source>
+      <Dest>眠りの木の野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>SoljundsSinkholeMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Soljund&apos;s Sinkhole</Source>
+      <Dest>ゾルグンデの巣窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162BF]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Steepfall Burrow</Source>
+      <Dest>スティープフォール窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162C0]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Stillborn Cave</Source>
+      <Dest>スティルボーン洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>StonehillBluffMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Stonehill Bluff</Source>
+      <Dest>ストーンヒルズ崖</Dest>
+    </String>
+    <String List="0">
+      <EDID>PalemoonCryptMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Frostmere Crypt</Source>
+      <Dest>フロストミヤ墓地</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162C3]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Talking Stone Camp</Source>
+      <Dest>トーキングストーンの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>ThroatoftheWorldMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Throat of the World</Source>
+      <Dest>世界のノド</Dest>
+    </String>
+    <String List="0">
+      <EDID>TolvaldsCaveMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Tolvald&apos;s Cave</Source>
+      <Dest>トルバルド洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162C6]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Treva&apos;s Watch</Source>
+      <Dest>トレヴァの監視所</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162C7]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Tumble Arch Pass</Source>
+      <Dest>タンブル・アーク峠</Dest>
+    </String>
+    <String List="0">
+      <EDID>UtteringHillsCaveMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Uttering Hills Cave</Source>
+      <Dest>アターリング・ヒルズ洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162C9]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Valtheim Towers</Source>
+      <Dest>ヴァルトヘイム・タワー</Dest>
+    </String>
+    <String List="0">
+      <EDID>VolskyggeMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Volskygge</Source>
+      <Dest>ヴォルスキーグ</Dest>
+    </String>
+    <String List="0">
+      <EDID>HillgrundsTombMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hillgrund&apos;s Tomb</Source>
+      <Dest>ヒルグランドの墓</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000162CC]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Serpent&apos;s Bluff Redoubt</Source>
+      <Dest>大蛇の崖要塞</Dest>
+    </String>
+    <String List="0">
+      <EDID>WhiteRiverWatchMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>White River Watch</Source>
+      <Dest>ホワイト川の監視所</Dest>
+    </String>
+    <String List="0">
+      <EDID>WolfskullCave</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Wolfskull Cave</Source>
+      <Dest>ウルフスカル洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>YsgramorsTombMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ysgramor&apos;s Tomb</Source>
+      <Dest>イスグラモルの墓</Dest>
+    </String>
+    <String List="0">
+      <EDID>MapMarkerYngvildREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Yngvild</Source>
+      <Dest>ユングビルド</Dest>
+    </String>
+    <String List="0">
+      <EDID>AngasMillMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Anga&apos;s Mill</Source>
+      <Dest>アンガの工場</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016332]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Battle-Born Farm</Source>
+      <Dest>バトル・ボーン農場</Dest>
+    </String>
+    <String List="0">
+      <EDID>BrandyMugFarmMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Brandy-Mug Farm</Source>
+      <Dest>ブランディ・マグ農場</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001633C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Chillfurrow Farm</Source>
+      <Dest>チルファロウ農場</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016349]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Gloombound Mine</Source>
+      <Dest>グルームバウンド鉱山</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001634C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Snow-Shod Farm</Source>
+      <Dest>スノー・ショッド農園</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001634F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Heartwood Mill</Source>
+      <Dest>ハートウッド工場</Dest>
+    </String>
+    <String List="0">
+      <EDID>HighHrothgarMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>High Hrothgar</Source>
+      <Dest>ハイ・フロスガー</Dest>
+    </String>
+    <String List="0">
+      <EDID>HlaaluFarmMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hlaalu Farm</Source>
+      <Dest>フラール農場</Dest>
+    </String>
+    <String List="0">
+      <EDID>HollyfrostFarmMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hollyfrost Farm</Source>
+      <Dest>ホリーフロスト農園</Dest>
+    </String>
+    <String List="0">
+      <EDID>SolitudeStablesMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Katla&apos;s Farm</Source>
+      <Dest>カトラ農場</Dest>
+    </String>
+    <String List="0">
+      <EDID>LeftHandMineMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Left Hand Mine</Source>
+      <Dest>レフト・ハンド鉱山</Dest>
+    </String>
+    <String List="0">
+      <EDID>LoreiusMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Loreius Farm</Source>
+      <Dest>ロレイウス農園</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001636D]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Mixwater Mill</Source>
+      <Dest>ミックスウォーター工場</Dest>
+    </String>
+    <String List="0">
+      <EDID>HalfMoonMillMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Half-Moon Mill</Source>
+      <Dest>ハーフムーン工場</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016373]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Pelagia Farm</Source>
+      <Dest>ペラジア農園</Dest>
+    </String>
+    <String List="0">
+      <EDID>SalviusFarmMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Salvius Farm</Source>
+      <Dest>サルヴィウス農園</Dest>
+    </String>
+    <String List="0">
+      <EDID>SarethiFarmMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Sarethi Farm</Source>
+      <Dest>サレシ農場</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016382]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Solitude Sawmill</Source>
+      <Dest>ソリチュード製材所</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016385]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Whistling Mine</Source>
+      <Dest>笛鳴き坑道</Dest>
+    </String>
+    <String List="0">
+      <EDID>BloodletThroneMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bloodlet Throne</Source>
+      <Dest>ブラッドレットの玉座</Dest>
+    </String>
+    <String List="0">
+      <EDID>NightCallerMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Nightcaller Temple</Source>
+      <Dest>ナイトコーラー聖堂</Dest>
+    </String>
+    <String List="0">
+      <EDID>DarkwaterCrossingMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Darkwater Crossing</Source>
+      <Dest>ダークウォーター・クロッシング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DawnstarMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dawnstar</Source>
+      <Dest>ドーンスター</Dest>
+    </String>
+    <String List="0">
+      <EDID>DragonBridgeMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dragon Bridge</Source>
+      <Dest>ドラゴン・ブリッジ</Dest>
+    </String>
+    <String List="0">
+      <EDID>FalkreathMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Falkreath</Source>
+      <Dest>ファルクリース</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00017780]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Helgen</Source>
+      <Dest>ヘルゲン</Dest>
+    </String>
+    <String List="0">
+      <EDID>NightgateInnMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Nightgate Inn</Source>
+      <Dest>宿屋「ナイトゲート」</Dest>
+    </String>
+    <String List="0">
+      <EDID>IvarsteadMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ivarstead</Source>
+      <Dest>イヴァルステッド</Dest>
+    </String>
+    <String List="0">
+      <EDID>KarthwastenMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Karthwasten</Source>
+      <Dest>カースワステン</Dest>
+    </String>
+    <String List="0">
+      <EDID>KynesgroveMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Kynesgrove</Source>
+      <Dest>カイネスグローブ</Dest>
+    </String>
+    <String List="0">
+      <EDID>MorthalMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Morthal</Source>
+      <Dest>モーサル</Dest>
+    </String>
+    <String List="0">
+      <EDID>OldHroldanMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Old Hroldan</Source>
+      <Dest>オールド・フロルダン</Dest>
+    </String>
+    <String List="0">
+      <EDID>RoriksteadMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Rorikstead</Source>
+      <Dest>ロリクステッド</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShorsStoneMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Shor&apos;s Stone</Source>
+      <Dest>ショール・ストーン</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000177E4]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Stonehills</Source>
+      <Dest>ストーンヒルズ</Dest>
+    </String>
+    <String List="0">
+      <EDID>WinterholdMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Winterhold</Source>
+      <Dest>ウィンターホールド</Dest>
+    </String>
+    <String List="0">
+      <EDID>GoldenglowMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Goldenglow Estate</Source>
+      <Dest>ゴールデングロウ農園</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001BAB9]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Apprentice Stone</Source>
+      <Dest>見習いの石碑</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001BABB]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Lover Stone</Source>
+      <Dest>恋人の石碑</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001BABD]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Guardian Stones</Source>
+      <Dest>大守護石</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001BAC0]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Steed Stone</Source>
+      <Dest>駿馬の石碑</Dest>
+    </String>
+    <String List="0">
+      <EDID>DBSanctuaryMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dark Brotherhood Sanctuary</Source>
+      <Dest>闇の一党 聖域</Dest>
+    </String>
+    <String List="0">
+      <EDID>KolskeggrMineMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Kolskeggr Mine</Source>
+      <Dest>コルスケッガー鉱山</Dest>
+    </String>
+    <String List="0">
+      <EDID>DagonShrineMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Shrine of Mehrunes Dagon</Source>
+      <Dest>メエルーンズ・デイゴンの祠</Dest>
+    </String>
+    <String List="0">
+      <EDID>MerryFairMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Merryfair Farm</Source>
+      <Dest>メリーフェア農場</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0002C652]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Brinewater Grotto</Source>
+      <Dest>ブラインウォーター洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>SeptimusSignusOutpostMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Septimus Signus&apos;s Outpost</Source>
+      <Dest>セプティマス・シグナスの隠れ家</Dest>
+    </String>
+    <String List="0">
+      <EDID>SnowVeilSanctumMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Snow Veil Sanctum</Source>
+      <Dest>雪帷の聖域</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00032875]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Purewater Run</Source>
+      <Dest>きれいな水の水路</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00033E45]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Thalmor Embassy</Source>
+      <Dest>サルモール大使館</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00034896]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Solitude Military Camp</Source>
+      <Dest>ソリチュードの軍キャンプ</Dest>
+    </String>
+    <String List="0">
+      <EDID>HonningbrewMeaderyMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Honningbrew Meadery</Source>
+      <Dest>ホニングブリューハチミツ酒醸造所</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0003F076]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ironbind Barrow</Source>
+      <Dest>アイアンバインド墓地</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortHraggstadMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Hraggstad</Source>
+      <Dest>フラーグスタート砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00046BAB]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bronze Water Cave</Source>
+      <Dest>ブロンズウォーター洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>WinterholdCollegeMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>College of Winterhold</Source>
+      <Dest>ウィンターホールド大学</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0004781E]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bannermist Tower</Source>
+      <Dest>バナーミスト塔</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00047875]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Roadside Ruins</Source>
+      <Dest>ロードサイド遺跡</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00047880]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Peak&apos;s Shade Tower</Source>
+      <Dest>ピークのシェイド・タワー</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0004788C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Falkreath Watchtower</Source>
+      <Dest>ファルクリース監視塔</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000479BB]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>South Skybound Watch</Source>
+      <Dest>サウススカイバウンド監視所</Dest>
+    </String>
+    <String List="0">
+      <EDID>nightingaleCaveMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Nightingale Hall</Source>
+      <Dest>ナイチンゲールの間</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0004B6EB]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>North Skybound Watch</Source>
+      <Dest>ノーススカイバウンド監視所</Dest>
+    </String>
+    <String List="0">
+      <EDID>DA02BoethiahShrineMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Sacellum of Boethiah</Source>
+      <Dest>ボエシアの祠</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0004FEF2]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>East Empire Company Warehouse</Source>
+      <Dest>東帝都社の倉庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>AbandonedShackMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Abandoned Shack</Source>
+      <Dest>廃屋と化した小屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0005E0A6]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dawnstar Sanctuary</Source>
+      <Dest>ドーンスターの聖域</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00068094]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Snapleg Cave</Source>
+      <Dest>脚折り洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShroudHearthMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Shroud Hearth Barrow</Source>
+      <Dest>隠匿の炉床墓地</Dest>
+    </String>
+    <String List="0">
+      <EDID>WhiterunStablesMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Whiterun Stables</Source>
+      <Dest>ホワイトランの馬屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaintySloadMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dainty Sload</Source>
+      <Dest>デインティ・スロード号</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00080E56]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Kagrenzel</Source>
+      <Dest>カグレンゼル</Dest>
+    </String>
+    <String List="0">
+      <EDID>StonyCreekCaveMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Stony Creek Cave</Source>
+      <Dest>ストーニークリーク洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>BrittleShinPassSouthMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>South Brittleshin Pass</Source>
+      <Dest>南ブリトルシン峠</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0008D5D6]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Valthume</Source>
+      <Dest>ヴァルスム</Dest>
+    </String>
+    <String List="0">
+      <EDID>KnifepointRidgeMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Knifepoint Ridge</Source>
+      <Dest>ナイフポイント・リッジ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0009003B]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Windhelm Military Camp</Source>
+      <Dest>ウィンドヘルムの軍キャンプ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00090595]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Raldbthar</Source>
+      <Dest>ラルドサール</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShrineofAzuraMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Shrine of Azura</Source>
+      <Dest>アズラの祠</Dest>
+    </String>
+    <String List="0">
+      <EDID>CWAttackerCampMapMarkerWhiterun</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Whiterun Military Camp</Source>
+      <Dest>ホワイトランの軍キャンプ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00094C29]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Markarth Military Camp</Source>
+      <Dest>マルカルスの軍キャンプ</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampHaafingarSonsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Haafingar Stormcloak Camp</Source>
+      <Dest>ハーフィンガル・ストームクロークの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampWhiterunSonsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Whiterun Stormcloak Camp</Source>
+      <Dest>ホワイトラン・ストームクロークの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>MilitaryCampEastmarchImperialMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Eastmarch Imperial Camp</Source>
+      <Dest>イーストマーチの帝国軍野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>RiftenStablesMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Riften Stables</Source>
+      <Dest>リフテン馬屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0009846F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Windhelm Stables</Source>
+      <Dest>ウィンドヘルム馬屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000A0E46]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>North Shriekwind Bastion</Source>
+      <Dest>北シュリークウィンド砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000A7CE5]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Black-Briar Lodge</Source>
+      <Dest>宿屋「ブラック・ブライア」</Dest>
+    </String>
+    <String List="0">
+      <EDID>RiftenMilitaryCampMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Riften Military Camp</Source>
+      <Dest>リフテンの軍キャンプ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000AD066]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Shrine to Peryite</Source>
+      <Dest>ペライトに捧げる祠</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000AF89B]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Lost Echo Cave</Source>
+      <Dest>ロストエコー洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B238B]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Cliffside Retreat</Source>
+      <Dest>クリフサイド隠居所</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B238F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Deep Folk Crossing</Source>
+      <Dest>ディープ・フォーク・クロッシング</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B2393]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dragon Bridge Overlook</Source>
+      <Dest>ドラゴン・ブリッジ高台</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B23A1]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Cradle Stone Tower</Source>
+      <Dest>クレイドル・ストーン・タワー</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B23A3]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Reachwind Eyrie</Source>
+      <Dest>リーチウィンド砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B23A7]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Four Skull Lookout</Source>
+      <Dest>フォー・スカルの監視所</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B6046]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Darkshade</Source>
+      <Dest>ダークシェイド</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B6295]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Sundered Towers</Source>
+      <Dest>サンダード・タワー</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B629F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Rebel&apos;s Cairn</Source>
+      <Dest>反逆者の積み石</Dest>
+    </String>
+    <String List="0">
+      <EDID>EmbershardMineMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Embershard Mine</Source>
+      <Dest>エンバーシャード鉱山</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B77C3]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Broken Oar Grotto</Source>
+      <Dest>ブロークン・オール洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShriekwindBastionMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>South Shriekwind Bastion</Source>
+      <Dest>南シュリークウィンド砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000BB47C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bleakwind Bluff</Source>
+      <Dest>ブリークウィンド崖</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000BC0AA]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Weynon Stones</Source>
+      <Dest>ウェイノン・ストーンズ</Dest>
+    </String>
+    <String List="0">
+      <EDID>SolitudeLighthouseMapmarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Solitude Lighthouse</Source>
+      <Dest>ソリチュード灯台</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000C2EE9]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Traitor&apos;s Post</Source>
+      <Dest>裏切り者の位置</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000C2EEC]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Windward Ruins</Source>
+      <Dest>ウィンドワード遺跡</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000C2EEF]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Kjenstag Ruins</Source>
+      <Dest>クジェンスタッグ遺跡</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000C2EF6]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Snowpoint Beacon</Source>
+      <Dest>スノーポイント・ビーコン</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000C2EFA]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Wayward Pass</Source>
+      <Dest>ウェイワード峠</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000C33FF]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Yorgrim Overlook</Source>
+      <Dest>ヨルグリム高台</Dest>
+    </String>
+    <String List="0">
+      <EDID>HalloftheVigilantMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hall of the Vigilant</Source>
+      <Dest>番人の間</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000C4D20]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Katariah</Source>
+      <Dest>カタリア号</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000CF27D]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Angi&apos;s Camp</Source>
+      <Dest>アンジーの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>TowerofMzarkMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Tower of Mzark</Source>
+      <Dest>ムザークの塔</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000D392D]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Froki&apos;s Shack</Source>
+      <Dest>フローキの小屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000D3930]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Rift Watchtower</Source>
+      <Dest>リフト監視塔</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000D3931]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Alchemist&apos;s Shack</Source>
+      <Dest>錬金術師の小屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000D3934]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Shor&apos;s Watchtower</Source>
+      <Dest>ショール監視塔</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000D3935]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Shadow Stone</Source>
+      <Dest>影の石碑</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000D3938]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Lost Prospect Mine</Source>
+      <Dest>ロストプロスペクト鉱山</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000D3939]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ruins of Rkund</Source>
+      <Dest>ルクンドの遺跡</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000D393C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ruins of Bthalft</Source>
+      <Dest>ビサルフトの遺跡</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000D9531]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Anise&apos;s Cabin</Source>
+      <Dest>アニスの小屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>WhiterunWatchtowerMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Western Watchtower</Source>
+      <Dest>西の監視塔</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000DD99A]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Whitewatch Tower</Source>
+      <Dest>ホワイトウォッチ・タワー</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000DD9D5]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Ritual Stone</Source>
+      <Dest>儀式の石碑</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000DED8E]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Gjukar&apos;s Monument</Source>
+      <Dest>グジュカールの記念碑</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000DED90]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Lady Stone</Source>
+      <Dest>淑女の石碑</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000E0ED5]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Tower Stone</Source>
+      <Dest>塔の石碑</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000E0F47]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Lord Stone</Source>
+      <Dest>大公の石碑</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000E0F4C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Atronach Stone</Source>
+      <Dest>精霊の石碑</Dest>
+    </String>
+    <String List="0">
+      <EDID>DoomstoneSerpentMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Serpent Stone</Source>
+      <Dest>大蛇の石碑</Dest>
+    </String>
+    <String List="0">
+      <EDID>WitchmistGroveMapmarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Witchmist Grove</Source>
+      <Dest>ウィッチミスト・グローブ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000E66A3]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Lund&apos;s Hut</Source>
+      <Dest>ルンドの小屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000E66A7]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Crabber&apos;s Shanty</Source>
+      <Dest>クラバーの小屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000E66AD]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Drelas&apos; Cottage</Source>
+      <Dest>ドレラスの小屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>MarkarthStablesMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Markarth Stables</Source>
+      <Dest>マルカルス馬屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EAA63]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Lost Valkygg</Source>
+      <Dest>ロスト・ヴァルキグ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EC192]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Whiterun Military Camp</Source>
+      <Dest>ホワイトランの軍キャンプ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EC193]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Windhelm Military Camp</Source>
+      <Dest>ウィンドヘルムの軍キャンプ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EC194]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Solitude Military Camp</Source>
+      <Dest>ソリチュードの軍キャンプ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EC195]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Riften Military Camp</Source>
+      <Dest>リフテンの軍キャンプ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EC196]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Markarth Military Camp</Source>
+      <Dest>マルカルスの軍キャンプ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000ECF49]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Abandoned Prison</Source>
+      <Dest>廃墟と化した牢獄</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000ECF4F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Riverside Shack</Source>
+      <Dest>リバーサイド小屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000ECF51]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Mara&apos;s Eye Pond</Source>
+      <Dest>マーラの目の池</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000ECF86]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Broken Limb Camp</Source>
+      <Dest>ブロークン・ラムの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EE79C]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hamvir&apos;s Rest</Source>
+      <Dest>ハンヴィルズ・レスト</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EF0A7]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Widow&apos;s Watch Ruins</Source>
+      <Dest>ウィドウズ・ウォッチの遺跡</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EF0AE]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Skytemple Ruins</Source>
+      <Dest>スカイテンプルの遺跡</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EF0BA]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Pinefrost Tower</Source>
+      <Dest>パインフロスト・タワー</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EF543]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ironback Hideout</Source>
+      <Dest>アイアンバックの隠れ家</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EF549]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Journeyman&apos;s Nook</Source>
+      <Dest>修行者の隠れ家</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000EF570]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Refugees&apos; Rest</Source>
+      <Dest>リフュージズ・レスト</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F4FE7]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Lower Steepfall Burrow</Source>
+      <Dest>下スティープフォール窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F52B2]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hunter&apos;s Rest</Source>
+      <Dest>ハンターズ・レスト</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F52D8]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Boulderfall Cave</Source>
+      <Dest>ボルダーフォール洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F5B8D]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dustman&apos;s Cairn</Source>
+      <Dest>ダストマンの石塚</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F5EA8]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Sunderstone Gorge</Source>
+      <Dest>サンダーストーン渓谷</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F5EAF]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>South Cold Rock Pass</Source>
+      <Dest>南コールドロック峠</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F5EB1]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>North Cold Rock Pass</Source>
+      <Dest>北コールドロック峠</Dest>
+    </String>
+    <String List="0">
+      <EDID>ArcwindPointMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Arcwind Point</Source>
+      <Dest>アークウィンドポイント</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F6698]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Karthspire Camp</Source>
+      <Dest>カーススパイアーの野営地</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F6F11]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Meeko&apos;s Shack</Source>
+      <Dest>ミーコの小屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F81D9]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Great Lift at Raldbthar</Source>
+      <Dest>ラルドサールの大リフト</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F81DA]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Great Lift at Mzinchaleft</Source>
+      <Dest>ムジンチャレフトの大リフト</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F81DB]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Great Lift at Alftand</Source>
+      <Dest>アルフタンドの大リフト</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000FDA48]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bonechill Passage</Source>
+      <Dest>ボーンチル道</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000FDBDE]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Northwind Mine</Source>
+      <Dest>ノースウインド鉱山</Dest>
+    </String>
+    <String List="0">
+      <EDID>StendarrsBeaconMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Stendarr&apos;s Beacon</Source>
+      <Dest>ステンダールの灯</Dest>
+    </String>
+    <String List="0">
+      <EDID>ReachcliffSecretMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Reachcliff Secret Entrance</Source>
+      <Dest>リーチクリフの秘密の入り口</Dest>
+    </String>
+    <String List="0">
+      <EDID>[02002F6F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dimhollow Crypt</Source>
+      <Dest>ディムホロウ墓地</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1ForbearsHoldoutMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Forebears&apos; Holdout</Source>
+      <Dest>フォアベアーズ・ホールドアウト</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1AncestorGladeMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ancestor Glade</Source>
+      <Dest>先人の湿地</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1VQ07MapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Darkfall Cave</Source>
+      <Dest>ダークフォール洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1RedwaterDenMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Redwater Den</Source>
+      <Dest>レッドウォーターの隠れ家</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1RuunvaldMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ruunvald Excavation</Source>
+      <Dest>ルーンヴァルドの発掘現場</Dest>
+    </String>
+    <String List="0">
+      <EDID>ArkngthamzMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Arkngthamz</Source>
+      <Dest>アルクンザムズ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1VolkiharFerryRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Icewater Jetty</Source>
+      <Dest>アイスウォーター桟橋</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1VampireCastleMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Castle Volkihar</Source>
+      <Dest>ヴォルキハル城</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1MolderingRuinsMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Moldering Ruins</Source>
+      <Dest>モルダリング遺跡</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0200D165]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Castle Volkihar Balcony</Source>
+      <Dest>ヴォルキハル城のバルコニー</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1WindhelmDocksMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Windhelm Docks</Source>
+      <Dest>ウィンドヘルムの港</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1FerryDropOffMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ferry Drop off Marker</Source>
+      <Dest>貨物届け先マーカー</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1DawnstarDocksMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dawnstar Docks</Source>
+      <Dest>ドーンスターの港</Dest>
+    </String>
+    <String List="0">
+      <EDID>BYOHHouse1MapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Lakeview Manor</Source>
+      <Dest>レイクビュー邸</Dest>
+    </String>
+    <String List="0">
+      <EDID>BYOHHouse2MapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Windstad Manor</Source>
+      <Dest>ウィンドスタッド邸</Dest>
+    </String>
+    <String List="0">
+      <EDID>BYOHHouse3MapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Heljarchen Hall</Source>
+      <Dest>ヘリヤーケン・ホール</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2MapMarkerToSolstheim</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Solstheim</Source>
+      <Dest>ソルスセイム</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2EbonyWarriorMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Last Vigil</Source>
+      <Dest>最後の見張り場所</Dest>
+    </String>
+    <String List="0">
+      <EDID>WindhelmWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Windhelm</Source>
+      <Dest>ウィンドヘルム</Dest>
+    </String>
+    <String List="0">
+      <EDID>WindhelmMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Windhelm</Source>
+      <Dest>ウィンドヘルム</Dest>
+    </String>
+    <String List="0">
+      <EDID>WindhelmPalaceOfTheKingsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Palace of the Kings</Source>
+      <Dest>王の宮殿</Dest>
+    </String>
+    <String List="0">
+      <EDID>RiftenWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Riften</Source>
+      <Dest>リフテン</Dest>
+    </String>
+    <String List="0">
+      <EDID>RiftenMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Riften</Source>
+      <Dest>リフテン</Dest>
+    </String>
+    <String List="0">
+      <EDID>MistveilKeepMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Mistveil Keep</Source>
+      <Dest>ミストヴェイル砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>TGMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Thieves Guild</Source>
+      <Dest>盗賊ギルド</Dest>
+    </String>
+    <String List="0">
+      <EDID>MarkarthWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Markarth</Source>
+      <Dest>マルカルス</Dest>
+    </String>
+    <String List="0">
+      <EDID>MarkarthMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Markarth</Source>
+      <Dest>マルカルス</Dest>
+    </String>
+    <String List="0">
+      <EDID>MarkarthPalaceMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Understone Keep</Source>
+      <Dest>アンダーストーン砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>WhiterunWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Whiterun</Source>
+      <Dest>ホワイトラン</Dest>
+    </String>
+    <String List="0">
+      <EDID>WhiterunMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Whiterun</Source>
+      <Dest>ホワイトラン</Dest>
+    </String>
+    <String List="0">
+      <EDID>WhiterunDragonsReachMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dragonsreach</Source>
+      <Dest>ドラゴンズリーチ</Dest>
+    </String>
+    <String List="0">
+      <EDID>FallowstoneCaveWorldEnd</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Giant&apos;s Grove</Source>
+      <Dest>巨人の森</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000D28B7]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Giant&apos;s Grove</Source>
+      <Dest>巨人の森</Dest>
+    </String>
+    <String List="0">
+      <EDID>DeepwoodRedoubtWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Deepwood Vale</Source>
+      <Dest>ディープウッド谷</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0001625F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hag&apos;s End</Source>
+      <Dest>ハグズエンド</Dest>
+    </String>
+    <String List="0">
+      <EDID>KarthspireRedoubtWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>The Karthspire</Source>
+      <Dest>カーススパイアー</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkyHavenTempleMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Sky Haven Temple</Source>
+      <Dest>スカイ・ヘヴン聖堂</Dest>
+    </String>
+    <String List="0">
+      <EDID>SolitudeWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Solitude</Source>
+      <Dest>ソリチュード</Dest>
+    </String>
+    <String List="0">
+      <EDID>SolitudeMapmarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Solitude</Source>
+      <Dest>ソリチュード</Dest>
+    </String>
+    <String List="0">
+      <EDID>SolitudeBluePalaceMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Blue Palace</Source>
+      <Dest>ブルー・パレス</Dest>
+    </String>
+    <String List="0">
+      <EDID>JaphetsFollyWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Japhet&apos;s Folly</Source>
+      <Dest>ジャフェット・フォリー</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00016245]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Japhet&apos;s Folly</Source>
+      <Dest>ジャフェット・フォリー</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC01FalmerValley</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Forgotten Vale</Source>
+      <Dest>忘れられた谷</Dest>
+    </String>
+    <String List="0">
+      <EDID>[020088E0]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Forgotten Vale</Source>
+      <Dest>忘れられた谷</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1HunterHQWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Dayspring Canyon</Source>
+      <Dest>デイスプリング峡谷</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1DawnguardMapMarkerValley01</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Dawnguard</Source>
+      <Dest>ドーンガード砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1DawnguardMapMarkerMain</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Dawnguard</Source>
+      <Dest>ドーンガード砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2SolstheimWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Solstheim</Source>
+      <Dest>ソルスセイム</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143BD]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Altar of Thrond</Source>
+      <Dest>スロンド祭壇</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143BE]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Benkongerike</Source>
+      <Dest>ベンコンジェリケ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143BF]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bloodskal Barrow</Source>
+      <Dest>ブラッドスカル墓地</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143C0]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Brodir Grove</Source>
+      <Dest>ブロディアの森</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143C1]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Castle Karstaag Ruins</Source>
+      <Dest>カースターグ城の廃墟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143C2]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fahlbtharz</Source>
+      <Dest>ファールブサーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143C3]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Kagrumez</Source>
+      <Dest>カグルメス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2FrostmothMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Frostmoth</Source>
+      <Dest>フロストモス砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143C5]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Frossel</Source>
+      <Dest>フロッセル</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2GyldenhulBarrowMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Gyldenhul Barrow</Source>
+      <Dest>ギルデンホル墓地</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143C7]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Horker Island</Source>
+      <Dest>ホーカー島</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143C9]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Nchardak</Source>
+      <Dest>チャルダック</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2TempleofMiraakMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Temple of Miraak</Source>
+      <Dest>ミラーク聖堂</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2VahloksTombMapMarkerDUPLICATE001</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Vahlok&apos;s Tomb</Source>
+      <Dest>ヴァーロックの墓</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2dunKolbjornMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Kolbjorn Barrow</Source>
+      <Dest>コルビョルン墓地</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143CD]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>White Ridge Barrow</Source>
+      <Dest>ホワイトリッジの墓場</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143CE]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Moesring Pass</Source>
+      <Dest>モースリング峠</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143CF]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Wreck of the Strident Squall</Source>
+      <Dest>難破したストライデント・スコール号</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143D0]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bujold&apos;s Retreat</Source>
+      <Dest>ブジョルドの避難所</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2FrostmoonCragMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Frostmoon Crag</Source>
+      <Dest>フロストムーンの断崖</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143D4]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Broken Tusk Mine</Source>
+      <Dest>ブロークンタスク鉱山</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2HankirsShoalMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Haknir&apos;s Shoal</Source>
+      <Dest>ハクニールの浅瀬</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143D6]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hrodulf&apos;s House</Source>
+      <Dest>フロドルフの家</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143D7]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Glacial Cave</Source>
+      <Dest>氷河の洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2AshfallowMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ashfallow Citadel</Source>
+      <Dest>アッシュファロー要塞</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2HightpointTowerMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Highpoint Tower</Source>
+      <Dest>ハイポイント塔</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143DA]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Northshore Landing</Source>
+      <Dest>北岸上陸地点</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2RavenRockMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Raven Rock</Source>
+      <Dest>レイヴン・ロック</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2SkaalVillageMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Skaal Village</Source>
+      <Dest>スコール村</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2StoneBeastMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Beast Stone</Source>
+      <Dest>獣の岩</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2StoneEarthMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Earth Stone</Source>
+      <Dest>大地の岩</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2StoneSunMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Sun Stone</Source>
+      <Dest>太陽の岩</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2StoneWaterMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Water Stone</Source>
+      <Dest>水の岩</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2StoneWindMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Wind Stone</Source>
+      <Dest>風の岩</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2TelMithrynMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Tel Mithryn</Source>
+      <Dest>テル・ミスリン</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040143E9]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Thirsk Mead Hall</Source>
+      <Dest>シルスク広間</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2MapMarkerToSkyrim</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Skyrim</Source>
+      <Dest>スカイリム</Dest>
+    </String>
+    <String List="0">
+      <EDID>[04017B68]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Abandoned Lodge</Source>
+      <Dest>廃屋</Dest>
+    </String>
+    <String List="0">
+      <EDID>[04017BB0]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hrothmund&apos;s Barrow</Source>
+      <Dest>フロスムンドの墓</Dest>
+    </String>
+    <String List="0">
+      <EDID>[04018ED8]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Castle Karstaag Caverns</Source>
+      <Dest>カースターグ城の洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2SaeringsWatchMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Saering&apos;s Watch</Source>
+      <Dest>サエリングズ・ウォッチ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2RRAttiusFarmMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Old Attius Farm</Source>
+      <Dest>アティウス農場</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0401BC48]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Bristleback Cave</Source>
+      <Dest>ブリストルバック洞窟</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040247C8]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Snowclad Ruins</Source>
+      <Dest>スノークラッド遺跡</Dest>
+    </String>
+    <String List="0">
+      <EDID>[040296DE]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Damphall Mine</Source>
+      <Dest>ダンプホール鉱山</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2StalhrimSourceMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Stalhrim Source</Source>
+      <Dest>スタルリムの鉱脈</Dest>
+    </String>
+    <String List="0">
+      <EDID>[04034EE4]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ramshackle Trading Post</Source>
+      <Dest>倒れそうな交易所</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2HvitkaldPeakMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Hvitkald Peak</Source>
+      <Dest>ヴィトカルド・ピーク</Dest>
+    </String>
+    <String List="0">
+      <EDID>[04039F96]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Headwaters of Harstrad</Source>
+      <Dest>ハーストラドの源流</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2MountMoesringMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Mount Moesring</Source>
+      <Dest>モースリング山</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2MortragPeakMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Mortrag Peak</Source>
+      <Dest>モートラグ・ピーク</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2FryktePeakMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Frykte Peak</Source>
+      <Dest>フリクト・ピーク</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
